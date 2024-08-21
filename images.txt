@@ -1,4 +1,5 @@
 #支持私库
 nginxinc/nginx-unprivileged:1.22.0
+yinyicao/headers-more-nginx-module
 #支持指定架构
 #--platform=linux/amd64 
