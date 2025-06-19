@@ -1,4 +1,4 @@
 #支持私库
-docker pull redis:7.2.9 
+redis:7.2.9 
 #支持指定架构
---platform=linux/arm64 docker pull redis
+--platform=linux/arm64 redis:7.2.9 
